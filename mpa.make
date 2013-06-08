@@ -63,6 +63,11 @@ projects[webform][subdir] = "contrib"
 projects[user_import][subdir] = contrib
 projects[lexicon][subdir] = contrib
 projects[advanced_forum][subdir] = contrib
+projects[pathauto][subdir] = "contrib"
+projects[token][subdir] = "contrib"
+projects[media][version] = "2.0-unstable7"
+projects[media][subdir] = "contrib"
+
 
 
 

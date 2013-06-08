@@ -38,8 +38,6 @@ dependencies[] = email
 dependencies[] = link
 dependencies[] = views
 dependencies[] = views_ui
-dependencies[] = file_entity
-dependencies[] = fivestar
 dependencies[] = media
 dependencies[] = diff
 
