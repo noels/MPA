@@ -1,3 +1,6 @@
+core = 7.x
+api = 2
+
 ; Modules
 ; --------
 projects[content_access][version] = 1.2-beta2
