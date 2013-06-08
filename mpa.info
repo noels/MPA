@@ -1,0 +1,7 @@
+name = major_projects_authority
+description = Major Projects Authority microsite
+core = 7.x
+
+#Dependencies
+
+files[] = mpa.profile

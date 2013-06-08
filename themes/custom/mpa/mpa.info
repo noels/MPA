@@ -1,0 +1,7 @@
+name = mpa
+description = Major Projects Authority theme
+version = 7.x-1.0
+core = 7.x
+base theme = professional_theme
+stylesheets[all][] = css/mpa.css
+engine = phptemplate
