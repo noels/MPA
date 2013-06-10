@@ -3,10 +3,10 @@ description = Major Projects Authority microsite
 core = 7.x
 
 #Dependencies
-dependencies[] = block
-dependencies[] = book
-dependencies[] = contextual
+dependencies[] = color
 dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
 dependencies[] = help
 dependencies[] = image
 dependencies[] = list
@@ -16,29 +16,35 @@ dependencies[] = options
 dependencies[] = path
 dependencies[] = taxonomy
 dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = overlay
 dependencies[] = field_ui
 dependencies[] = file
-dependencies[] = overlay
 dependencies[] = rdf
+
+
+dependencies[] = pathauto
+dependencies[] = token
+dependencies[] = syslog
+dependencies[] = blog
+
 
 dependencies[] = admin_menu
 dependencies[] = features
+dependencies[] = views
+dependencies[] = views_ui
 dependencies[] = strongarm
-dependencies[] = blog
-dependencies[] = contextual
-dependencies[] = help
-dependencies[] = pathauto
-dependencies[] = token
-dependencies[] = search
-dependencies[] = syslog
+dependencies[] = email
+dependencies[] = link
+dependencies[] = media
+dependencies[] = file_entity
+
 
 dependencies[] = admin_devel
 dependencies[] = admin_menu_toolbar
-dependencies[] = email
-dependencies[] = link
-dependencies[] = views
-dependencies[] = views_ui
-dependencies[] = media
 dependencies[] = diff
+dependencies[] = block
+
 
 files[] = mpa.profile
