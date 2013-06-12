@@ -47,6 +47,6 @@ dependencies[] = diff
 dependencies[] = block
 
 dependencies[] = lexicon
-
+dependencies[] = user_import
 
 files[] = mpa.profile
