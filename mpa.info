@@ -46,5 +46,7 @@ dependencies[] = admin_menu_toolbar
 dependencies[] = diff
 dependencies[] = block
 
+dependencies[] = lexicon
+
 
 files[] = mpa.profile
