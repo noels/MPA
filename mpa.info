@@ -49,4 +49,26 @@ dependencies[] = block
 dependencies[] = lexicon
 dependencies[] = user_import
 
+dependencies[] = og_ui
+dependencies[] = og_register
+dependencies[] = og_field_access
+dependencies[] = og_context
+dependencies[] = og_access
+dependencies[] = og
+dependencies[] = panels
+dependencies[] = page_manger
+
+dependencies[] = forum
+dependencies[] = advanced_forum
+dependencies[] = rules
+dependencies[] = message_notify
+dependencies[] = message
+
 files[] = mpa.profile
+
+
+; Information added by drush on 2013-06-10
+version = "unknown"
+project = "mpa"
+datestamp = "1370857541"
+
