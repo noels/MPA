@@ -48,6 +48,7 @@ dependencies[] = module_filter
 
 dependencies[] = lexicon
 dependencies[] = user_import
+dependencies[] = users_export
 
 dependencies[] = og_ui
 dependencies[] = og_register
