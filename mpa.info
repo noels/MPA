@@ -56,7 +56,6 @@ dependencies[] = og_context
 dependencies[] = og_access
 dependencies[] = og
 dependencies[] = panels
-dependencies[] = page_manger
 
 dependencies[] = forum
 dependencies[] = advanced_forum
