@@ -44,6 +44,7 @@ dependencies[] = admin_devel
 dependencies[] = admin_menu_toolbar
 dependencies[] = diff
 dependencies[] = block
+dependencies[] = module_filter
 
 dependencies[] = lexicon
 dependencies[] = user_import
