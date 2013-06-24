@@ -78,6 +78,7 @@ projects[rules][subdir] = "contrib"
 projects[message_notify][subdir] = "contrib"
 projects[entityreference_prepopulate][subdir] = "contrib"
 projects[message][subdir] = "contrib"
+projects[print][subdir] = "contrib"
 
 
 
