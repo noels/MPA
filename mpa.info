@@ -65,6 +65,7 @@ dependencies[] = rules
 dependencies[] = message_notify
 dependencies[] = message
 dependencies[] = forum_access
+dependencies[] = faq
 
 files[] = mpa.profile
 
