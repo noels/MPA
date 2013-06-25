@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the mpa_glossary feature.
+ */
+
+include_once 'mpa_glossary.features.inc';
