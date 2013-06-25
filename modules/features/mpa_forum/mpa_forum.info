@@ -1,0 +1,13 @@
+name = mpa_forum
+description = MPA forum settings
+core = 7.x
+package = MPA
+version = 7.x-1.0
+project = mpa_forum
+dependencies[] = advanced_forum
+dependencies[] = features
+dependencies[] = forum
+dependencies[] = taxonomy
+features[features_api][] = api:2
+features[field_base][] = taxonomy_forums
+features[taxonomy][] = forums
