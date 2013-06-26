@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the mpa_linkedin feature.
+ */
+
+include_once 'mpa_linkedin.features.inc';
