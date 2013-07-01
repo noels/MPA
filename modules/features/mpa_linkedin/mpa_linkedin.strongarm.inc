@@ -28,7 +28,7 @@ function mpa_linkedin_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'linkedin_liboauth_path';
-  $strongarm->value = 'sites/all/modules/oauth/lib/OAuth.php';
+  $strongarm->value = 'profiles/mpa/modules/contrib/oauth/lib/OAuth.php';
   $export['linkedin_liboauth_path'] = $strongarm;
 
   $strongarm = new stdClass();
