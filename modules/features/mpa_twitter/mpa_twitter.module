@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the mpa_twitter feature.
+ */
+
+include_once 'mpa_twitter.features.inc';
