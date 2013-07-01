@@ -85,6 +85,8 @@ projects[acl][subdir] = "contrib"
 projects[faq][subdir] = "contrib"
 projects[linkedin][subdir] = "contrib"
 projects[oauth][subdir] = "contrib"
+projects[twitter][subdir] = "contrib"
+
 
 
 
