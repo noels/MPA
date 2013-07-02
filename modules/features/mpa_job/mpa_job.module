@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the MPA Job feature.
+ */
+
+include_once 'mpa_job.features.inc';
