@@ -88,7 +88,7 @@ projects[oauth][subdir] = "contrib"
 projects[twitter][subdir] = "contrib"
 projects[twitter_pull][version]"1.0-rc5"
 projects[twitter_pull][subdir] = "contrib"
-projects[twitter][patch][] = "https://drupal.org/files/twitter_pull-use_twitter_module_api-7.x-1.x-1781024-70.patch"
+projects[twitter][patch][] = "http://drupal.org/files/twitter_pull-use_twitter_module_api-7.x-1.x-1781024-70.patch"
 
 
 
