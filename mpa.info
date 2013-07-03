@@ -68,6 +68,8 @@ dependencies[] = forum_access
 dependencies[] = faq
 dependencies[] = linkedin
 dependencies[] = linkedin_profile
+dependencies[] = twitter
+dependencies[] = twitter_pull
 
 files[] = mpa.profile
 
