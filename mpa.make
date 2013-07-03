@@ -86,9 +86,12 @@ projects[faq][subdir] = "contrib"
 projects[linkedin][subdir] = "contrib"
 projects[oauth][subdir] = "contrib"
 projects[twitter][subdir] = "contrib"
-projects[twitter_pull][version] = "1.0-rc5"
+
+projects[twitter_pull][type] = "module"
+projects[twitter_pull][download][type] = "git"
+projects[twitter_pull][download][url] = "http://git.drupal.org/project/twitter_pull.git"
+projects[twitter_pull][branch] = "7.x-2.x-dev"
 projects[twitter_pull][subdir] = "contrib"
-projects[twitter][patch][] = "http://drupal.org/files/twitter_pull-use_twitter_module_api-7.x-1.x-1781024-70.patch"
 
 
 
