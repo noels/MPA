@@ -8,7 +8,6 @@ project = mpa_user
 dependencies[] = entityreference
 dependencies[] = features
 dependencies[] = og
-dependencies[] = og_ui
 dependencies[] = text
 features[features_api][] = api:2
 features[field_base][] = field_cohort
