@@ -70,7 +70,8 @@ dependencies[] = linkedin
 dependencies[] = linkedin_profile
 dependencies[] = linkedin_group_posts
 dependencies[] = twitter
-dependencies[] = twitter_pull
+#broken install so don't depend on it here.  Enable after
+#dependencies[] = twitter_pull
 
 files[] = mpa.profile
 
