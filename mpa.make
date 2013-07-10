@@ -84,6 +84,7 @@ projects[chain_menu_access][subdir] = "contrib"
 projects[acl][subdir] = "contrib"
 projects[faq][subdir] = "contrib"
 projects[linkedin][subdir] = "contrib"
+projects[linkedin_group_posts][subdir] = "contrib"
 projects[oauth][subdir] = "contrib"
 projects[twitter][subdir] = "contrib"
 

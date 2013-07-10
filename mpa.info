@@ -68,6 +68,7 @@ dependencies[] = forum_access
 dependencies[] = faq
 dependencies[] = linkedin
 dependencies[] = linkedin_profile
+dependencies[] = linkedin_group_posts
 dependencies[] = twitter
 dependencies[] = twitter_pull
 
