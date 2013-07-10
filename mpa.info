@@ -51,14 +51,6 @@ dependencies[] = user_import
 dependencies[] = users_export
 dependencies[] = print_pdf
 
-dependencies[] = og_ui
-dependencies[] = og_register
-dependencies[] = og_field_access
-dependencies[] = og_context
-dependencies[] = og_access
-dependencies[] = og
-dependencies[] = panels
-
 dependencies[] = forum
 dependencies[] = advanced_forum
 dependencies[] = rules
